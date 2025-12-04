@@ -11,10 +11,14 @@
             "id": "78ad826a20d73a02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Design/Enemies/Robot Dog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Robot Dog"
             }
           }
         ]
@@ -177,5 +181,33 @@
     }
   },
   "active": "78ad826a20d73a02",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Templates/Enemy.md",
+    "Game Design/Enemies/Robot Dog.md",
+    "Game Design/Enemies",
+    "Index.md",
+    "Templates/Reference Sheet.md",
+    "One Pager.md",
+    "Game Design",
+    "References/Dead Cells.md",
+    "References/Vampire Survivors.md",
+    "References/Warhammer 40,000 Boltgun.md",
+    "Attachments/Pasted image 20251204144106.png",
+    "Attachments/Pasted image 20251204144057.png",
+    "Attachments/Pasted image 20251204144045.png",
+    "Attachments/Pasted image 20251204144009.png",
+    "Attachments/Pasted image 20251204143948.png",
+    "Attachments/Pasted image 20251204143930.png",
+    "Attachments/Pasted image 20251204143819.png",
+    "Attachments/Pasted image 20251204143827.png",
+    "Attachments/Pasted image 20251204143850.png",
+    "Attachments/Pasted image 20251204143902.png",
+    "Base.base",
+    "Untitled.canvas",
+    "Attachments",
+    "Untitled.md",
+    "Templates",
+    "References",
+    "One.md"
+  ]
 }

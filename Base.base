@@ -1,0 +1,8 @@
+filters:
+  not:
+    - file.inFolder("Templates")
+    - file.inFolder("Attachments")
+    - file.ext == "base"
+views:
+  - type: table
+    name: Table
