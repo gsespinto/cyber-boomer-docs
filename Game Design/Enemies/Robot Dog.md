@@ -12,9 +12,9 @@
 
 **Visual refs:**
 
-|     |     |
-| --- | --- |
-|     |     |
+| ![[Pasted image 20251205100710.png]] | ![[Pasted image 20251205100819.png]] |
+| ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20251205100840.png]] | ![[Pasted image 20251205100908.png]] |
 
 **Notes:**
 They constantly follow the player and attack in packs.

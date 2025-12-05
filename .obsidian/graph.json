@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Game Design/Levels/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Game Design/Enemies/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Game Design\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Pitching\"",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "path:References ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.83541666666667,
-  "lineSizeMultiplier": 1.63125,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.83541666666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "centerStrength": 0.442708333333333,
+  "repelStrength": 11.0416666666667,
+  "linkStrength": 0.890625,
+  "linkDistance": 106,
+  "scale": 0.6666666666666659,
+  "close": false
 }
